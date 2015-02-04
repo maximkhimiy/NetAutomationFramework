@@ -46,3 +46,4 @@ D:\WORK\Automation\GitHubProjects\AcceptanceTesting\NetAutomationFramework\Autom
 D:\WORK\Automation\GitHubProjects\AcceptanceTesting\NetAutomationFramework\AutomationTests\obj\Debug\AutomationTests.csprojResolveAssemblyReference.cache
 D:\WORK\Automation\GitHubProjects\AcceptanceTesting\NetAutomationFramework\AutomationTests\obj\Debug\AutomationTests.dll
 D:\WORK\Automation\GitHubProjects\AcceptanceTesting\NetAutomationFramework\AutomationTests\obj\Debug\AutomationTests.pdb
+D:\WORK\Automation\GitHubProjects\AcceptanceTesting\NetAutomationFramework\AutomationTests\bin\Debug\AutomationTests.dll.config
